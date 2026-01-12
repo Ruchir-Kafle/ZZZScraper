@@ -1,0 +1,229 @@
+[
+    {
+        "scenario": "(Talk to Wise, Morning)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "Who are you and what have you done to my sister?",
+                "responses": [
+                    {
+                        "prompt": "It's me! It's really me!",
+                        "response": null
+                    },
+                    {
+                        "prompt": "If anything, YOU are the impostor!",
+                        "response": "You got me..."
+                    }
+                ]
+            },
+            {
+                "character": "Wise",
+                "prompt": "Just kidding. But you went to bed so late last night. Are you sure you'll be alright getting up this early?",
+                "responses": []
+            },
+            {
+                "character": "Wise",
+                "prompt": "Go back to sleep, I'll watch the store.",
+                "responses": []
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Morning)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "Morning. I'm going to the coffee shop to get a cup of coffee, do you want one?",
+                "responses": [
+                    {
+                        "prompt": "Okay!",
+                        "response": null
+                    },
+                    {
+                        "prompt": "Thanks, but I had a cup already...",
+                        "response": null
+                    }
+                ]
+            },
+            {
+                "character": "Wise",
+                "prompt": "Got it.",
+                "responses": []
+            },
+            {
+                "character": "Wise",
+                "prompt": "...My body doesn't feel fueled until I have my first cup of coffee. And I feel like someone who's just watching over this body until caffeine, the real owner, takes over... What a scary thought...",
+                "responses": []
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Afternoon)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "...",
+                "responses": [
+                    {
+                        "prompt": "You decide!",
+                        "response": "I know you'll support my decision. I'll crunch some numbers and see if we can handle it."
+                    },
+                    {
+                        "prompt": "Can we afford it?",
+                        "response": "to help me run through the cost analysis again..."
+                    }
+                ]
+            },
+            {
+                "character": "Wise",
+                "prompt": "It's been quite a challenge to run this store. I mean, several years ago, we never thought we would live like this...",
+                "responses": []
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Evening)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "I wish Fairy had a physical body.",
+                "responses": [
+                    {
+                        "prompt": "Why?",
+                        "response": null
+                    }
+                ]
+            },
+            {
+                "character": "Wise",
+                "prompt": "Then it can take turns cleaning with us.",
+                "responses": []
+            },
+            {
+                "character": "Wise",
+                "prompt": "I don't know why, but I get the feeling that it won't slack off like you do.",
+                "responses": []
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Evening)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "Any ideas for dinner?",
+                "responses": [
+                    {
+                        "prompt": "Let's go out!",
+                        "response": "Let me guess, you're going to say... noodles..."
+                    },
+                    {
+                        "prompt": "I want you to cook!",
+                        "response": "What a weird request. You know I'll be sad if there are too many leftovers, right?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Evening)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "It's been a while since we took a walk together.",
+                "responses": [
+                    {
+                        "prompt": "Let's take a walk together!",
+                        "response": "A walk? Or a drive? You decide."
+                    },
+                    {
+                        "prompt": "Are you... trying to act cute? No way!",
+                        "response": "...What a terrible reaction. I won't say that I want to take a walk with you again."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Late Night)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "I'm really hungry, but there are only carrot chips at home...",
+                "responses": [
+                    {
+                        "prompt": "Is there anything we can order?",
+                        "response": "Sure. You're hungry, too? It feels less guilty when you order it with me."
+                    },
+                    {
+                        "prompt": "Just eat the chips!",
+                        "response": "Carrot chips are too healthy. It's a daytime snack, and no one eats it at late night. And it's freeze-dried, not even fried!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Late Night)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "I see you can't sleep, either.",
+                "responses": [
+                    {
+                        "prompt": "Let's watch some movies together?",
+                        "response": "No horror movies, please... Thank you..."
+                    },
+                    {
+                        "prompt": "Go back to bed and give it another try!",
+                        "response": "How? I guess I can try closing my eyes..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Late Night)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": ".",
+                "responses": [
+                    {
+                        "prompt": "You, too, Wise! Well done!",
+                        "response": null
+                    }
+                ]
+            },
+            {
+                "character": "Wise",
+                "prompt": "I knew from the beginning that the only thing I could do was to support you.",
+                "responses": []
+            },
+            {
+                "character": "Wise",
+                "prompt": "I can't afford to lose you so... I know I say this a lot, but you must be careful.",
+                "responses": []
+            }
+        ]
+    },
+    {
+        "scenario": "(Talk to Wise, Late Night)",
+        "dialogue": [
+            {
+                "character": "Wise",
+                "prompt": "You don't look too good. Is something wrong?",
+                "responses": [
+                    {
+                        "prompt": "No, I think I'm just tired.",
+                        "response": "Is that so? Then get some rest. I'll make your favorite breakfast tomorrow morning."
+                    },
+                    {
+                        "prompt": "I'm just in a bad mood...",
+                        "response": "I'm always here if you need to talk. Do you want to come over, or should I go to your room?"
+                    }
+                ]
+            }
+        ]
+    }
+]
